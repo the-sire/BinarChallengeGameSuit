@@ -21,7 +21,7 @@ class App {
         PeraturanSuit().aturanSuit()
     }
 
-    }
+}
 
 
 
